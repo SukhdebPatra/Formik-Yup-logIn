@@ -1,0 +1,61 @@
+.cardClass {
+  width: 345px;
+  /* height: 274px; */
+  /* top: 246px; */
+  bottom: 50px;
+  left: 33px;
+  border-radius: 19px;
+  background: linear-gradient(180deg, #E3F5FF -45.08%, #CAECFF 100%),
+    linear-gradient(0deg, #E6F7F9, #E6F7F9);
+}
+.emailLabel {
+  width: 38px;
+  height: 21px;
+  top: 272px;
+  left: 38px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+
+
+
+
+
+.signInBtn {
+  width: 284px;
+  height: 50px;
+  top: 556px;
+  left: 38px;
+  border-radius: 25px;
+  background: linear-gradient(270deg, #0D5DBB 10.39%, #0B36CD 79.75%);
+  color: white;
+  margin-left: 55px;
+  margin-top: 20px;
+}
+
+
+.containerClass {
+  position: relative;
+  text-align: center;
+}
+
+.textoverflow{
+  position: absolute;
+    color: white;
+    top: 20%;
+    /* right: 30%; */
+    text-align: center;
+    /* display: block; */
+    width: 100%;
+}
+.imgclass {
+  width: 100%;
+  height: 300px;
+  display: block;
+
+}

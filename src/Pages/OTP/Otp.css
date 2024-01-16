@@ -1,0 +1,39 @@
+.htag {
+    color: #4A4A4A;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.rowtext {
+    display: flex;
+}
+
+.coltext {
+    flex: 1;
+    margin-right: 5px;
+    /* Adjust as needed for spacing between input fields */
+
+}
+
+/* To remove right margin from the last input field */
+.coltext:last-child {
+    margin-right: 0;
+}
+
+/* input[type='text'] {
+    width: 100%;
+    text-align: center;
+} */
+
+.optfield {
+    border-radius: 11px;
+    background: #FFF;
+    color: black;
+    width: 40px;
+    height: 45px;
+    padding: 20px;
+    text-align: center;
+}

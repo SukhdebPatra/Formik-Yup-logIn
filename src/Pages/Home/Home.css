@@ -1,0 +1,65 @@
+.headerTag {
+    width: 310px;
+    height: 41px;
+    top: 25px;
+    left: 18px
+}
+
+.circularImage {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.searchBox {
+    border-radius: 25px;
+    background: #FFF;
+    padding-left: 100%;
+}
+
+.canvasBackground {
+    border-radius: 19px 19px 0px 0px;
+    background: linear-gradient(0deg, #E6F7F9 0%, #E6F7F9 100%), #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    /* margin-bottom: 40px;
+    height: 90px; */
+}
+
+.vl {
+    border-left: 4px solid #C0C0C0;
+    height: 200px;
+    width: 1px;
+    /* height: 208px; */
+    /* background: #; */
+}
+
+.applybtn {
+    border-radius: 100px;
+    background: linear-gradient(270deg, #0DBB8A 10.39%, #0BCD86 79.75%);
+    box-shadow: 0px 0px 14px 4px rgba(11, 203, 134, 0.36);
+    width: 150.245px;
+    height: 50px;
+    flex-shrink: 0;
+    color: white;
+}
+
+.clarebtn{
+    border-radius: 40px;
+background: linear-gradient(270deg, #9790A1 10.39%, #929292 79.75%);
+box-shadow: 0px 0px 14px 4px rgba(146, 146, 147, 0.50);
+width: 150.245px;
+height: 50px;
+flex-shrink: 0;
+color: white;
+}
+
+.textsort{
+    color: #0DBC8A;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+

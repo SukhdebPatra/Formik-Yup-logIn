@@ -1,0 +1,40 @@
+.headertag {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.paraghraph {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #8D8D8D;
+
+}
+
+.accessbtn {
+    width: 284px;
+    height: 50px;
+    top: 443px;
+    left: 38px;
+    border-radius: 25px;
+    background: linear-gradient(270deg, #0DBB8A 10.39%, #0BCD86 79.75%);
+    color: white;
+}
+
+.ptag {
+    color: #0DBB8A;
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left; 
+
+}

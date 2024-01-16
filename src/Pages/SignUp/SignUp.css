@@ -1,0 +1,27 @@
+.SignupCard {
+    bottom: 45px;
+    width: 325px;
+    height: 405px;
+    left: 30px;
+    border-radius: 19px;
+    background: linear-gradient(180deg, #E3F5FF -45.08%, #CAECFF 100%),
+        linear-gradient(0deg, #E6F7F9, #E6F7F9),
+        linear-gradient(0deg, #F0F9FE, #F0F9FE);
+}
+.InputField {
+    width: 284px;
+    height: 45px;
+    /* flex-shrink: 0; */
+    border-radius: 25px;
+    background: #FFF;
+  }
+  
+  .logInBtn {
+    width: 284px;
+    height: 50px;
+    top: 443px;
+    left: 38px;
+    border-radius: 25px;
+    background: linear-gradient(270deg, #0DBB8A 10.39%, #0BCD86 79.75%);
+    color: white;
+  }
